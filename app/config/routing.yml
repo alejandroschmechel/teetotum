@@ -1,0 +1,5 @@
+teetotum_teetotum:
+    resource: "@TeetotumTeetotumBundle/Controller/"
+    type:     annotation
+    prefix:   /
+
